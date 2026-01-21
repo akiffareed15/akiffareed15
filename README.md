@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a Student Pursuing BSCS From NUML-Islamabad. Currently in 4th Semester.<br>I am a Front end developer. I can develop highend frontend pages and learning backend apis almost expert<br>in SQL Querries php etc. I have a good grip in other languages like c++, python and java. I also have some Mega Projects <br>related in C++ and Java based.
-
+A passionate and versatile computer science student specializing in frontend development with expertise in building high-end, responsive web applications. Continuously advancing backend skills in SQL, PHP, and API integration, while having strong experience in C++, Java, and Python. Focused on creating clean, efficient, and scalable solutions, with hands-on project experience that bridges both practical and theoretical knowledge.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akif-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akiffareed15@gmail.com) 
