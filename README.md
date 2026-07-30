@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate and versatile computer science student specializing in frontend development with expertise in building high-end, responsive web applications. Continuously advancing backend skills in SQL, PHP, and API integration, while having strong experience in C++, Java, and Python. Focused on creating clean, efficient, and scalable solutions, with hands-on project experience that bridges both practical and theoretical knowledge.
+Full Stack Developer and App Developer building complete, production-ready digital products — from Flutter mobile apps to Node.js/Express backends with cloud databases. Recently built and deployed **PriceLens AI**, an AI-powered shopping assistant combining a Flutter frontend, a secure Node.js backend, MongoDB Atlas, and Gemini AI + SerpApi integrations. NAVTTC-certified in the MERN Stack, with strong foundations in React.js, JavaScript, REST APIs, and JWT Authentication. Currently a BS Computer Science student at NUML, focused on shipping real projects rather than just tutorials.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akif-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akiffareed15@gmail.com) 
